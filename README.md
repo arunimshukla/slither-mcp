@@ -85,7 +85,7 @@ In your `~/.cursor/mcp.json`:
 Then verify that Cursor can list the server's tools:
 
 ```bash
-cursor-agent mcp list-tools slither-mcp
+agent mcp list-tools slither-mcp
 ```
 
 ## Metrics and Privacy
